@@ -4,7 +4,6 @@
   "description": "DreamCatchers Peach's API for Call Center",
   "main": "src/server.js",
   "scripts": {
-    "prestart": "chmod +x node_modules/.bin/nodemon",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/index.js",
     "production": "npm start -c"
